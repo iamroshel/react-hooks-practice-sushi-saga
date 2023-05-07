@@ -1,4 +1,4 @@
-# Practice Challenge: Sushi Saga
+# Practice Challenge: Sushi Saga c
 
 Welcome to Sushi Saga, where your journey to sushi is only just beginning!
 
